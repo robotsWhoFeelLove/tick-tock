@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/tick-tock/static/css/main.9935fdf6.css",
-    "main.js": "/tick-tock/static/js/main.27f6cefd.js",
+    "main.css": "/tick-tock/static/css/main.29bf3771.css",
+    "main.js": "/tick-tock/static/js/main.94e786d9.js",
     "static/js/787.d34ef716.chunk.js": "/tick-tock/static/js/787.d34ef716.chunk.js",
     "static/media/pathway-middle-green-leafed-trees-with-sun-shining-through-branches.jpg": "/tick-tock/static/media/pathway-middle-green-leafed-trees-with-sun-shining-through-branches.7c30c93e142a09e51409.jpg",
     "static/media/wood-texture-close.jpg": "/tick-tock/static/media/wood-texture-close.0ce5a68c14f971638117.jpg",
+    "static/media/IMG_4723.JPG": "/tick-tock/static/media/IMG_4723.a2fd2084d7e76ed3bc2a.JPG",
     "static/media/sprite2.gif": "/tick-tock/static/media/sprite2.fe675bb17060705eff19.gif",
     "static/media/crying.gif": "/tick-tock/static/media/crying.0da064cbe71d234280b5.gif",
     "static/media/sweating.gif": "/tick-tock/static/media/sweating.7dfb3ababe37bcfa741b.gif",
     "static/media/winning.gif": "/tick-tock/static/media/winning.637dd678f1ff0b1e6613.gif",
     "static/media/tick.svg": "/tick-tock/static/media/tick.ec35967f3b2da0c798ae412fc5e10151.svg",
     "index.html": "/tick-tock/index.html",
-    "main.9935fdf6.css.map": "/tick-tock/static/css/main.9935fdf6.css.map",
-    "main.27f6cefd.js.map": "/tick-tock/static/js/main.27f6cefd.js.map",
+    "main.29bf3771.css.map": "/tick-tock/static/css/main.29bf3771.css.map",
+    "main.94e786d9.js.map": "/tick-tock/static/js/main.94e786d9.js.map",
     "787.d34ef716.chunk.js.map": "/tick-tock/static/js/787.d34ef716.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9935fdf6.css",
-    "static/js/main.27f6cefd.js"
+    "static/css/main.29bf3771.css",
+    "static/js/main.94e786d9.js"
   ]
 }
