@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tick-tock/static/css/main.29bf3771.css",
-    "main.js": "/tick-tock/static/js/main.94e786d9.js",
+    "main.css": "/tick-tock/static/css/main.4dcd9fa6.css",
+    "main.js": "/tick-tock/static/js/main.b08e7f57.js",
     "static/js/787.d34ef716.chunk.js": "/tick-tock/static/js/787.d34ef716.chunk.js",
     "static/media/pathway-middle-green-leafed-trees-with-sun-shining-through-branches.jpg": "/tick-tock/static/media/pathway-middle-green-leafed-trees-with-sun-shining-through-branches.7c30c93e142a09e51409.jpg",
     "static/media/wood-texture-close.jpg": "/tick-tock/static/media/wood-texture-close.0ce5a68c14f971638117.jpg",
@@ -12,12 +12,12 @@
     "static/media/winning.gif": "/tick-tock/static/media/winning.637dd678f1ff0b1e6613.gif",
     "static/media/tick.svg": "/tick-tock/static/media/tick.ec35967f3b2da0c798ae412fc5e10151.svg",
     "index.html": "/tick-tock/index.html",
-    "main.29bf3771.css.map": "/tick-tock/static/css/main.29bf3771.css.map",
-    "main.94e786d9.js.map": "/tick-tock/static/js/main.94e786d9.js.map",
+    "main.4dcd9fa6.css.map": "/tick-tock/static/css/main.4dcd9fa6.css.map",
+    "main.b08e7f57.js.map": "/tick-tock/static/js/main.b08e7f57.js.map",
     "787.d34ef716.chunk.js.map": "/tick-tock/static/js/787.d34ef716.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29bf3771.css",
-    "static/js/main.94e786d9.js"
+    "static/css/main.4dcd9fa6.css",
+    "static/js/main.b08e7f57.js"
   ]
 }
